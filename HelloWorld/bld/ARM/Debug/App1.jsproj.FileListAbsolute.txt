@@ -1,0 +1,16 @@
+C:\dev\trash\IotApp\HelloWorld\bin\ARM\Debug\ReverseMap\resources.pri
+C:\dev\trash\IotApp\HelloWorld\bin\ARM\Debug\AppxManifest.xml
+C:\dev\trash\IotApp\HelloWorld\bin\ARM\Debug\HelloWorld.build.appxrecipe
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\ResourceHandlingTask.state
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\priconfig.xml
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\priconfig.xml.intermediate
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\layout.resfiles
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\layout.resfiles.intermediate
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\resources.resfiles
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\resources.resfiles.intermediate
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\pri.resfiles
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\pri.resfiles.intermediate
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\qualifiers.txt
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\qualifiers.txt.intermediate
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\dev\trash\IotApp\HelloWorld\bld\ARM\Debug\ProjectArchitectures.txt

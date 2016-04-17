@@ -1,0 +1,1 @@
+C:\dev\trash\IotApp\HelloWorld\HelloWorld.jsproj;x64
